@@ -1,3 +1,6 @@
+All the commands required  to run a nodejs application
+
+
 to start node project 
  
  ### "npm init -y"
